@@ -14,7 +14,7 @@
 - **Version**: `v1.0.0`
 - **Build Type**: Custom Go-based binary
 - **Architecture**: Supports Linux x86_64 (cross-compilation supported)
-- **Repository**: _[Private/Internal]_ (or public link if available)
+- **Repository**: Public
 
 
 ---
